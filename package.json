@@ -1,0 +1,11 @@
+{
+  "name": "will_it_kill_me",
+  "version": "1.0.0",
+  "description": "App showing DCS Anti Aircraft system ranges",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mad Jack",
+  "license": "ISC"
+}
